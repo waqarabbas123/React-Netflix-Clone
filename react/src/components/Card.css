@@ -1,0 +1,47 @@
+.outer {
+  background-color: black;
+}
+.outer .h-2 {
+  color: white;
+  font-size: 26px;
+  text-align: center;
+  padding-top: 60px;
+}
+.main {
+  /* background-color: rgba(0, 0, 0, 0.983); */
+  padding: 50px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(65, 19, 26);
+  color: white;
+  margin: 10px;
+}
+.card:hover {
+  background-color: #8D2453 ;
+  transition: all ease 0.4s;
+  cursor: pointer;
+}
+.card h2 {
+  font-size: 25px;
+  padding: 25px 0px 0px 18px;
+}
+.card .p-1 {
+  font-weight: 500;
+  font-size: 16px;
+  margin: 8px 0px 0px 18px;
+}
+
+.card .p-2 {
+  font-weight: 500;
+  font-size: 20px;
+  margin: 4px 0px 0px 18px;
+}
+
+.card-2 {
+  background-color: #1b1b37;
+}
