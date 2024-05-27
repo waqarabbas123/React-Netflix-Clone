@@ -1,1 +1,1 @@
-this website is the clone of netflix react
+Using the react i can make a clone of netflix .
