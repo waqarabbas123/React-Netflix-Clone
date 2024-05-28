@@ -1,1 +1,2 @@
-Using the react i can make a clone of netflix .
+Using react library i can make a clone of netflix webite for pc's.
+
