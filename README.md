@@ -1,2 +1,2 @@
-In this repositroy i Make a clone website of netflix.
-Using the library of javascript that is react.
+using the javascript laibrary react js 
+i make a clone website of netflix for pc's only.
