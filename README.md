@@ -1,2 +1,1 @@
-Using the javascript laibrary of JavaScript react js 
-i make a clone website of netflix for pc's only.
+Using the library of javascript react js i can make a clon website of netflix.
