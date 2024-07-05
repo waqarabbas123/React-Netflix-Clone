@@ -1,1 +1,1 @@
-Using the react js i can make a clone website of netflix 
+Uusing react js i can make a clone webiste of netflix .
